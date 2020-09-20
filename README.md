@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey! 'Sup?
 
-<!--
-**MarlusVLC/MarlusVLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Marlus' profile and he's currently a Game Development student at PUC-PR who happens to know a bit of Web Develoment and resides in Curitiba,PR.
 
-Here are some ideas to get you started:
+Check out some of the games he helped to develop!
+ :video_game: https://marlusvinicius.itch.io/  :video_game:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  He knows some:
+ 
+
+ -  :space_invader:  Unity 
+ - :coffee: Java SE 8  
+ - :snake: Python 3  
+ - :heavy_dollar_sign: HTML, CSS and JavaScript (jQuery) 
+
+###  And is currently learning:
+
+ - Unreal Engine
+ - OpenGL with C++
+
+#### You can also find him at:
+:briefcase: [LinkedIn](https://www.linkedin.com/in/marlus-vinicius/)
+:camera: [Instagram](https://www.instagram.com/mirlo10000/)
+:bird: [Twitter](https://twitter.com/mirlusmarlus)

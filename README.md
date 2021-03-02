@@ -15,7 +15,7 @@ Check out some of the games he helped to develop!
 
 ###  And is currently learning:
 
- - Unreal Engine
+ - Batabase Management
  - OpenGL with C++
 
 #### You can also find him at:

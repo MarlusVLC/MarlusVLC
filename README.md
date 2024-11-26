@@ -2,8 +2,8 @@
 
 This is Marlus' profile and he's a Game Developer, currently focused on Unity prograaming and design and resides in Curitiba,PR.
 
-Check out some of the games he helped to develop!
- :video_game: https://marlusvinicius.itch.io/  :video_game:
+-> 🎥 [Youtube](https://www.youtube.com/@marlusviniciusGameDev) <- Check his videos to know about his endeavors more thorougly <br>
+-> 🎮 [Itch.io](https://marlusvinicius.itch.io/) <- Check the games he helped developed in his spare time <br>
 
 ###  He's most proficient in:
  
@@ -25,8 +25,7 @@ Check out some of the games he helped to develop!
  - Game-Oriented Physics
 
 #### You can also find him at:
-🎥 [Youtube](https://www.youtube.com/@marlusviniciusGameDev) <- Check his videos to know about his endeavors more thorougly
-🎮 [Itch.io](https://marlusvinicius.itch.io/) <- Check the games he helped developed in his spare time
+
 :briefcase: [LinkedIn](https://www.linkedin.com/in/marlus-vinicius/)
 :camera: [Instagram](https://www.instagram.com/mirlo10000/)
 :bird: [Twitter](https://twitter.com/mirlusmarlus)

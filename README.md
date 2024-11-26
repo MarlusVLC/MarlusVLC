@@ -12,8 +12,8 @@ This is Marlus' profile and he's a Game Developer, currently focused on Unity pr
 
 ### Know some:
  - Game Design
- - Gameplay Development
- - Combat Development
+ - Gameplay Development (Movement and Effects)
+ - Combat Development (AI-Behaviour)
  - Game-UI Programming
  - Unity XR Porgramming (ARCore, ARKit and OpenXR)
  - Backend Pipeline Integration with Unity
